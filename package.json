@@ -1,6 +1,6 @@
 {
   "name": "haste-pls",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An npm package to upload code to a hastebin",
   "main": "index.js",
   "repository": {
