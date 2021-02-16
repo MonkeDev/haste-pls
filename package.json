@@ -1,0 +1,21 @@
+{
+  "name": "haste-pls",
+  "version": "1.0.1",
+  "description": "An npm package to upload code to a hastebin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonkeDev/haste-pls.git"
+  },
+  "keywords": [
+    "bin",
+    "pastebin",
+    "hastebin"
+  ],
+  "author": "MonkeDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MonkeDev/haste-pls/issues"
+  },
+  "homepage": "https://haste.monkedev.com"
+}
