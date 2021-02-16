@@ -7,8 +7,8 @@ const binPls = require("haste-pls");
 const bin = new binPls()
 const postBin = async (content) => {
     bin.setContent(content);
-    await bin.post();
-    console.log(bin.link);
+    const res = await bin.post();
+    console.log(res);
 }  
 
 postBin("hello hastebin from haste-pls");
